@@ -1,0 +1,10 @@
+{
+ "argv": ["java",
+          "-classpath",
+          "/home/locav/RapidWright/bin/:/home/locav/RapidWright/jars/kryo-5.2.1.jar:/home/locav/RapidWright/jars/junit-jupiter-engine-5.7.1.jar:/home/locav/RapidWright/jars/junit-platform-engine-1.7.1.jar:/home/locav/RapidWright/jars/protobuf-java-3.11.4.jar:/home/locav/RapidWright/jars/jeromq-0.5.2.jar:/home/locav/RapidWright/jars/annotations-20.1.0.jar:/home/locav/RapidWright/jars/jython-standalone-2.7.2.jar:/home/locav/RapidWright/jars/minlog-1.3.1.jar:/home/locav/RapidWright/jars/junit-jupiter-api-5.7.1.jar:/home/locav/RapidWright/jars/jupyter-kernel-jsr223-1.0.1.jar:/home/locav/RapidWright/jars/commons-cli-1.2.jar:/home/locav/RapidWright/jars/qtjambi-linux64-gcc-4.5.2_01.jar:/home/locav/RapidWright/jars/runtime-0.1.13.jar:/home/locav/RapidWright/jars/apiguardian-api-1.1.0.jar:/home/locav/RapidWright/jars/commons-io-2.11.0.jar:/home/locav/RapidWright/jars/junit-jupiter-params-5.7.1.jar:/home/locav/RapidWright/jars/jzlib-1.1.3.jar:/home/locav/RapidWright/jars/jheaps-0.9.jar:/home/locav/RapidWright/jars/qtjambi-4.5.2_01.jar:/home/locav/RapidWright/jars/rapidwright-api-lib-2021.2.2.jar:/home/locav/RapidWright/jars/objenesis-3.2.jar:/home/locav/RapidWright/jars/json-20160810.jar:/home/locav/RapidWright/jars/reflectasm-1.11.9.jar:/home/locav/RapidWright/jars/jopt-simple-5.0.4.jar:/home/locav/RapidWright/jars/junit-platform-commons-1.7.1.jar:/home/locav/RapidWright/jars/jnacl-1.0.0.jar:/home/locav/RapidWright/jars/opentest4j-1.2.0.jar:/home/locav/RapidWright/jars/jgrapht-core-1.3.0.jar",
+          "org.jupyterkernel.kernel.Session",
+          "-k", "python",
+          "-f", "{connection_file}"],
+ "display_name": "Jython 2.7",
+ "language": "python"
+}
